@@ -20,8 +20,8 @@ title                    : "Mongde Note"
 title_separator          : "|"
 subtitle                 : #"small positive action"
 name                     : #"sangmin"
-description              : #"?�하??개발?�의 블로�?
-url                      : "https://yhoo741.github.io"
+description              : #"장하는 개발자의 블로그"
+url                      : "https://yhoo0094.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "SangMin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "매일 조금???�장?�기"
-  location         : "?�?��?�?
+  bio              : "매일 조금씩 성장하기"
+  location         : "대한민국"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
